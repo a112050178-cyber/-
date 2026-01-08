@@ -1,0 +1,5 @@
+{
+  "name": "Taipei Attractions Viewer",
+  "description": "A comprehensive web application to explore Taipei's top tourist attractions, featuring real-time search, pagination, and detailed attraction information using the Taipei Travel Open API.",
+  "requestFramePermissions": []
+}
